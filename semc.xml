@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LegacyXperia/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" />
+  <project name="LegacyXperia/android_device_semc_msm7x30-common" path="device/semc/msm7x30-common" revision="cm-10.1-pmem" />
   
-  <project name="LegacyXperia/android_device_semc_mogami-common" path="device/semc/mogami-common" />
+  <project name="LegacyXperia/android_device_semc_mogami-common" path="device/semc/mogami-common" revision="cm-10.1-pmem" />
   <project name="LegacyXperia/android_device_semc_anzu" path="device/semc/anzu" />
   <project name="LegacyXperia/android_device_semc_coconut" path="device/semc/coconut" />
   <project name="LegacyXperia/android_device_semc_haida" path="device/semc/haida" />
@@ -22,7 +22,7 @@
 
   <project name="CyanogenMod/android_hardware_sony_DASH" path="hardware/sony/DASH" />
 
-  <project name="LegacyXperia/proprietary_vendor_semc" path="vendor/semc" />
+  <project name="LegacyXperia/proprietary_vendor_semc" path="vendor/semc" revision="cm-10.1-pmem" />
 
   <project name="arco/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" />
   <project name="arco/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" />
